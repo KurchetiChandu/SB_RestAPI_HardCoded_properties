@@ -1,0 +1,12 @@
+ 
+ 
+  
+  
+ 
+ 
+ 
+ app:
+   messages:
+       welcomeMsg: Welcome to MurthyIT
+       greetMsg: Good Morning
+   
